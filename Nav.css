@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar li {
+    display:inline-block;
+    list-style-type: none;
+    margin-right: 20px;
+}
+.navbar li:last-child {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+a {
+    text-decoration:  none;
+    color: black;
+}
+.navbar button {
+    padding: 2px 10px;
+    
+}
+.trade {
+    font-size: 25px;
+    padding-left:10px;
+}
+
