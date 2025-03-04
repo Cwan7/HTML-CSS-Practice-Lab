@@ -8,9 +8,9 @@ body {
     width: 50%;
     background-color: black;
     padding: 20px;
-    display: flex;           /* Add flexbox to center content */
-    justify-content: center; /* Center horizontally */
-    text-align: center;      /* Center text within its block */
+    display: flex;           
+    justify-content: center; 
+    text-align: center;      
     align-items: center;
 }
 
@@ -18,9 +18,9 @@ body {
     width: 50%;
     background-color: #e0e0e0;
     padding: 20px;
-    display: flex;           /* Add flexbox to center content */
-    justify-content: center; /* Center horizontally */
-    text-align: left;      /* Center text within its block */
+    display: flex;           
+    justify-content: center; 
+    text-align: left;      
     align-items: center;
 }
 
